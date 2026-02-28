@@ -5,7 +5,6 @@
 ## B.S. Computer Science (Minor: Mathematics) | GPA: 3.92
 **Graduation Date:** May 2026
 
-- 🌎 I’m an international student based in San Antonio, Texas
 - 📫 You can contact me at rashi20nov@gmail.com
 - 💼 linkedin.com/in/rashi-rautela
 - 🧠 I’m currently learning more about developing tools for more efficient workflows
