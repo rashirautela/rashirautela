@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/banner.jpg)
 
 # Hi 👋 My name is Rashi Rautela
 
