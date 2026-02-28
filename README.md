@@ -17,11 +17,11 @@
 <br>
 
 ## Experiences
-- **Data Analyst Intern**
-- **Undergraduate Research Assistant**
-- **Computer Science Tutor**
-- **Computer Science Grader**
-- **ACM-W Social Media Lead**
+- **Data Analyst Intern** | San Antonio Community Resource Directory
+- **Undergraduate Research Assistant** | UT San Antonio
+- **Computer Science Tutor** | UT San Antonio
+- **Computer Science Grader** | UT San Antonio    
+- **Social Media Lead** | ACM-W  UT San Antonio
 
 <br>
     
