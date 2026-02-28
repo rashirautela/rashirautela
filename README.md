@@ -1,4 +1,4 @@
-![Banner](assets/banner.jpg)
+![Banner](banner.jpg)
 
 # Hi 👋 My name is Rashi Rautela
 
@@ -33,4 +33,4 @@
 
 <br><br><br>
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=download&logoColor=white)](https://github.com/rashirautela/rashirautela/raw/main/assets/Rashi_Rautela_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=download&logoColor=white)](https://github.com/rashirautela/rashirautela/raw/main/Rashi_Rautela_Resume.pdf)
