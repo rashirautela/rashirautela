@@ -32,4 +32,4 @@
 
 <br><br><br>
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=download&logoColor=white)](https://github.com/rashirautela/rashirautela/raw/main/Rashi_Rautela_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=download&logoColor=white)](https://github.com/rashirautela/rashirautela/raw/main/Rashi_Rautela_JUNE26.pdf)
