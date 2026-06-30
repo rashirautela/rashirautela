@@ -2,7 +2,7 @@
 
 # Hi 👋 My name is Rashi Rautela
 
-## B.S. Computer Science (Minor: Mathematics) | GPA: 3.92
+## B.S. Computer Science (Minor: Mathematics) | GPA: 3.93
 **Graduation Date:** May 2026
 
 - 📫 You can contact me at rashi20nov@gmail.com
